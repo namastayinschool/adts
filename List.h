@@ -21,7 +21,8 @@ class List //begin List definition
      
      
      /** MISSING OPERATIONS */
-     //... fill in ....
+     void display(); //display list
+     int getAt(int k); //returns element at position k
 
 };//end List definition
 
